@@ -1,4 +1,6 @@
-# PySpark - Developing my understanding in PySpark Further
+# PySpark 
+
+Developing my understanding further with PySpark. 
 
 ## Introduction:
 
